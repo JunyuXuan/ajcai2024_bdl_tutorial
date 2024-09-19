@@ -1,7 +1,7 @@
 {
   "name": "ajcai-tutorial",
   "version": "0.1.0",
-  "homepage": "https://nlp-tlp.github.io/ajcai-tutorial",
+  "homepage": "https://junyuxuan.github.io/bdl_tutorial/",
   "private": true,
   "dependencies": {
     "@octokit/core": "^3.5.1",
